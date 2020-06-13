@@ -34,7 +34,9 @@ The crowd is happy as they have better software, just as they wanted.
 
 ### ...software users (a.k.a. the crowd)
 
-You are the primary customer. You incentivize software developers to work on the enhancement of your preference by putting money on a plate. The goal of Plate is that software users can direct the development even if they don't understand anything about programming. Hence, plates include human understandable translations of the notoriously cryptic GitHub issue descriptions.
+You are the primary customer. You incentivize software developers to work on the enhancement of your preference by putting money on a plate.
+
+The goal of Plate is that software users can direct the development even if they don't understand anything about programming. Hence, plates include human understandable translations of the notoriously cryptic GitHub issue descriptions.
 
 You now have more to direct how software is developed, please use that power responsibly. And more importantly, use that power. For example, make a social media share of a plate explaining why you it think is important?
 
