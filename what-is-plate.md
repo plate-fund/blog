@@ -1,3 +1,5 @@
+![Plate makes this possible](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200621200236757.png)
+
 # What is Plate?
 
 Plate is a **marketplace for open source enhancements**. With Plate, you can assign (small) bounties to enhancement suggestions in open source software.
