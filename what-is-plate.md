@@ -1,10 +1,12 @@
-![Plate makes this possible](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200621200236757.png)
+![Plate brings developers and a crowd of software users together](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222600220.png)
 
 # What is Plate?
 
 Plate is a **marketplace for open source enhancements**. With Plate, you can assign (small) bounties to enhancement suggestions in open source software.
 
 Plate uses micro crowdfunding to match three financial interests; it 1) enables software users to direct software development with bounties, 2) helps open source software developers earn living, and 3) gives project maintainers a share for ensuring the good quality of the source code. Plate ensures this all happens fairly and takes a small share of each transaction to finance the service.
+
+![The problem that Plate solves](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200621200236757.png)
 
 The goal of plate is to make open source the most popular and financially attractive development model for all software.
 
@@ -14,19 +16,19 @@ All descriptions on this page are current plans and may change in the future.
 
 All starts with a software enhancement request, an issue, in [GitHub](https://github.com/). Anyone can create a *plate* fund on that issue at Plate website by adding some money on it. Any software developer who fixes the issue gets the money on the plate. When multiple software users assign money to one plate, the pile grows and software developers become interested.
 
-![image-20200609222600220](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222600220.png)
+![Plate brings developers and a crowd of software users together](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222600220.png)
 
 A software developer starts working on the enhancement request in hope of grabbing the money on the plate. The developer has temporal pressure as other developers may target that same prize too, and bounties may have an expiration date. On the other hand, the pile of money may also grow as also a lonely cowboy brings in their stake.
 
-![image-20200609222623531](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222623531.png)
+![Developer working on the enhancement](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222623531.png)
 
 When the developer has finished the enhancement, they submit it (send a pull request in GitHub) to the software maintainer to be reviewed. The maintainer of the software project follows their own criteria to decide whether or not to accept the submission.
 
-![image-20200609222822388](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222822388.png)
+![Maintainer reviews the work of the developer](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609222822388.png)
 
 If the enhancement passes inspection, maintainer merges it to the software source code. Funders get better software and the money on the plate is distributed.
 
-![image-20200609225142609](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609225142609.png)
+![All stakeholders get what they wanted](https://raw.githubusercontent.com/plate-fund/blog/master/what-is-plate.assets/image-20200609225142609.png)
 
 Largest share of the money is given to the developer who fulfills that improvement. Also maintainer of each software project receives a share as a reward for the maintaining efforts and Plate also takes a cut to keep the platform running.
 
