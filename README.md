@@ -1,6 +1,6 @@
 # Welcome to Plate blog
 
-We host this blog page on GitHub pages and use the default theme, hence the weird descriptions on the right (desktop) or left (mobile).
+We dont have a proper landing page yet, but you can read the "What is Plate?" blog post to get to know what we do!
 
 ---
 
